@@ -1,2 +1,1 @@
-# snake-game
-This is a Simple Snake Game with HTML , Javascript and CSS
+I forked this repo and deployed it to github pages...you're welcome!😊
